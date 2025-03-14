@@ -1,9 +1,11 @@
-import Hero from "../components/hero/page"
+import Hero from "../sections/hero/page"
+import Body from "@/sections/body/page";
 
 function App(){
   return(
   <div>
-    <Hero></Hero>
+    <Hero />
+    <Body />
   </div>)
 }
 
