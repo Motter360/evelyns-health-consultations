@@ -1,5 +1,5 @@
-import Hero from "../sections/hero/page"
-import Body from "@/sections/body/page";
+import Hero from "@/sections/hero/hero"
+import Body from "@/sections/body/body";
 
 function App(){
   return(
